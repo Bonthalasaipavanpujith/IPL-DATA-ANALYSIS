@@ -18,16 +18,11 @@ This project analyzes Indian Premier League (IPL) cricket match statistics using
 8️⃣ **Most Player of the Match Awards** 🏅 - Highlights players who won the most MOM awards.
 
 ## 🛠️ Installation & Usage
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/yourusername/IPL-Stats-Analysis.git
-   cd IPL-Stats-Analysis
-   ```
-2. Install dependencies:
+1. Install dependencies:
    ```sh
    pip install numpy pandas matplotlib
    ```
-3. Run the program:
+2. Run the program:
    ```sh
    python main.py
    ```
