@@ -32,17 +32,11 @@ This project analyzes Indian Premier League (IPL) cricket match statistics using
    python main.py
    ```
 
-## 📸 Sample Visualization
-![Sample Graph](https://via.placeholder.com/600x300).
-
 ## 👨‍💻 Technologies Used
 - Python 🐍
 - Pandas 🏗️
 - NumPy 🔢
 - Matplotlib 📊
-
-## 📢 Contributing
-Feel free to fork this repository and submit pull requests! 🚀
 
 ## 📜 License
 This project is licensed under the MIT License. 📄
