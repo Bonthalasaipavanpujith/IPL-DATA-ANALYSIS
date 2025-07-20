@@ -1,4 +1,4 @@
-# 🏏 IPL Cricket Stats Analysis
+## 🏏 IPL Cricket Stats Analysis
 
 ## 📌 Overview
 This project analyzes Indian Premier League (IPL) cricket match statistics using Python. It includes data visualizations for team performances, player statistics, and match trends using Pandas, Matplotlib, and NumPy.
